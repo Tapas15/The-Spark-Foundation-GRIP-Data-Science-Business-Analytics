@@ -5,8 +5,8 @@ Data Science Business Analytics  Internship Tasks
 
 This repository consist of the tasks given during my internship at The Sparks Foundation.
 
-<a id="user-content-task1" class = "anchor" aria-hidden = "true" href="#Task1" > <h1> Task-1 </h1></a>
 
+<a id="user-content-task1" class = "anchor" aria-hidden = "true" href="#Task1" > <h1> Task-1 </h1></a>
 <a href ="">Tapas linkedin </a>
 <h2> Prediction using Supervised ML </h2>
 <p>● Predict the percentage of an student based on the no. of study hours.</p>
@@ -15,4 +15,4 @@ This repository consist of the tasks given during my internship at The Sparks Fo
 <p> ● Dataset : http://bit.ly/w-data</p>
 <p><a href = "https://github.com/Tapas15/The-Spark-Foundation-GRIP-Data-Science-Business-Analytics/blob/main/Task1/Linear%20Regression%20task%201%20.ipynb"> Github</a></p>
 <a href ="https://nbviewer.jupyter.org/github/Tapas15/The-Spark-Foundation-GRIP-Data-Science-Business-Analytics/blob/main/Task1/Linear%20Regression%20task%201%20.ipynb"> Solution </a>
-<a id="user-content-task2" class = "anchor" aria-hidden = "true" href="#Task2" > <h1> Task-2 </h1></a>
+<a id="user-content-task1" class = "anchor" aria-hidden = "true" href="#Task1" > <h1> Task-1 </h1></a>
