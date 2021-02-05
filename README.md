@@ -13,4 +13,4 @@ This repository consist of the tasks given during my internship at The Sparks Fo
 <p>● What will be predicted score if a student studies for 9.25 hrs/ day?</p>
 <p>● This is a simple linear regression task as it involves just 2 variables. </p>
 <p> ● Dataset : http://bit.ly/w-data</p>
-<a href ="https://nbviewer.jupyter.org/github/Tapas15/The-Spark-Foundation-GRIP-Data-Science-Business-Analytics/blob/main/Task1/Linear%20Regression%20task%201%20.ipynb">Tapas linkedin </a>
+<a href ="https://nbviewer.jupyter.org/github/Tapas15/The-Spark-Foundation-GRIP-Data-Science-Business-Analytics/blob/main/Task1/Linear%20Regression%20task%201%20.ipynb"> Solution </a>
